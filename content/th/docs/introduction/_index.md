@@ -1,0 +1,20 @@
+---
+title: "Introduction"
+description: ""
+lead: ""
+date: 2022-08-04T14:11:21+07:00
+lastmod: 2022-08-04T14:11:21+07:00
+draft: false
+images: []
+menu:
+  docs:
+    parent: ""
+    identifier: "introduction-2ac2e141c94a4ed38e0b48493b3bf085"
+weight: 100
+toc: true
+---
+
+#### หนังสือสำหรับวิชา พื้นฐานวิศวกรรมไฟฟ้า
+- [บทที่ ๑ ปริมาณไฟฟ้า]({{<relref "chapter1">}})
+- [บทที่ ๒ กฏพื้นฐานไฟฟ้า]({{<relref "chapter2">}})
+- [บททดสอบ]({{<relref "quiz">}})
