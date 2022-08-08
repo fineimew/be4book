@@ -28,7 +28,7 @@ ul {
 li {
     height: 30px;
     line-height: 30px;
-    padding-left: 200px;
+    padding-left: 100px;
     text-align: left;
 }
 </style>
