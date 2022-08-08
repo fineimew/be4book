@@ -18,3 +18,17 @@ toc: true
 - [บทที่ ๑ ปริมาณไฟฟ้า]({{<relref "chapter1">}})
 - [บทที่ ๒ กฏพื้นฐานไฟฟ้า]({{<relref "chapter2">}})
 - [บททดสอบ]({{<relref "quiz">}})
+
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+    height: 30px;
+    line-height: 30px;
+    padding-left: 200px;
+    text-align: left;
+}
+</style>
