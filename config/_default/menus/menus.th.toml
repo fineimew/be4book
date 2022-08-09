@@ -29,7 +29,7 @@
   url = "/tutorial/lorem/"
 
 [[main]]
-  name = "เอกสาร"
+  name = "หนังสือ"
   url = "/docs/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
@@ -38,6 +38,11 @@
 #   name = "Tutorial"
 #   url = "/tutorial/lorem/ipsum/"
 #   weight = 15
+
+[[main]]
+  name = "วิดีทัศน์"
+  url = "/videos/"
+  weight = 19
 
 [[main]]
   name = "Blog"

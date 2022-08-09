@@ -19,6 +19,12 @@ toc: true
 - [บทที่ ๒ กฏพื้นฐานไฟฟ้า]({{<relref "chapter2">}})
 - [บททดสอบ]({{<relref "quiz">}})
 
+
+
+{{< vimeo 146022717 >}}
+
+{{< vimeo id="146022717" class="my-vimeo-wrapper-class" title="My vimeo video" >}}
+
 <style>
 ul {
   list-style-type: none;
