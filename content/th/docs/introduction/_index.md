@@ -19,7 +19,9 @@ toc: true
 - [บทที่ ๒ กฏพื้นฐานไฟฟ้า]({{<relref "chapter2">}})
 - [บททดสอบ]({{<relref "quiz">}})
 
-
+{{< note >}}
+This is a note admonition using the default `title`.
+{{< /note >}}
 
 {{< vimeo 146022717 >}}
 
